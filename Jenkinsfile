@@ -1,15 +1,5 @@
 pipeline {
   agent any
-  stages {
-    stage('Hello') {
-      steps {
-        echo 'Hello Parth 🚀'
-      }
-    }
-  }
-}
-pipeline {
-  agent any
 
   stages {
     stage('Clone') {
