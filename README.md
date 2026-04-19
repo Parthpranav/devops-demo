@@ -1,1 +1,1 @@
-This project is for learning demo
+This project is for learning DevOps
